@@ -1,0 +1,2 @@
+- simplye movie analysis
+- K fold cross validation
